@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.aws</groupId>
 	<artifactId>example</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1</version>
 	<name>example</name>
 	<description>Example project for aws learning</description>
 	<properties>
