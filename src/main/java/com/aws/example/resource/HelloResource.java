@@ -10,7 +10,7 @@ public class HelloResource {
 
     @GetMapping
     public String responseEntity() {
-        return "Dupa";
+        return "Hello";
     }
 
 }
